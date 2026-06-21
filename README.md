@@ -38,9 +38,9 @@ This repository builds a sequence of toy experiments investigating that question
 | 07       | Classical flat-minima hypothesis     | <a href="https://colab.research.google.com/github/thinkthoughts/flat-minima-representation/blob/main/notebooks/07_flat_vs_sharp.ipynb">📓</a>    |
 | 13       | Hessian geometry and curvature       | <a href="https://colab.research.google.com/github/thinkthoughts/flat-minima-representation/blob/main/notebooks/13_hessian_geometry.ipynb">📓</a>    |
 | 17       | Reparameterization changes sharpness | <a href="https://colab.research.google.com/github/thinkthoughts/flat-minima-representation/blob/main/notebooks/17_reparameterization.ipynb">📓</a>    |
-| 23       | Correlation versus causation         | <a href="https://colab.research.google.com/github/thinkthoughts/flat-minima-representation/blob/main/notebooks/23_same_function_different_sharpness.ipynb">📓</a>    |
-| 29       | Representation matters               | <a href="https://colab.research.google.com/github/thinkthoughts/flat-minima-representation/blob/main/notebooks/29_correlation_vs_causation.ipynb">📓</a>    |
-| 37       | Conclusions and surviving properties | <a href="https://colab.research.google.com/github/thinkthoughts/flat-minima-representation/blob/main/notebooks/37_representation_matters.ipynb">📓</a>    |
+| 23       | Same function different sharpness       | <a href="https://colab.research.google.com/github/thinkthoughts/flat-minima-representation/blob/main/notebooks/23_same_function_different_sharpness.ipynb">📓</a>    |
+| 29       | Correlation versus causation               | <a href="https://colab.research.google.com/github/thinkthoughts/flat-minima-representation/blob/main/notebooks/29_correlation_vs_causation.ipynb">📓</a>    |
+| 37       | Representation matters   | <a href="https://colab.research.google.com/github/thinkthoughts/flat-minima-representation/blob/main/notebooks/37_representation_matters.ipynb">📓</a>    |
 
 ---
 
