@@ -42,7 +42,7 @@ This repository builds a sequence of toy experiments investigating that question
 | 29       | Correlation versus causation               | <a href="https://colab.research.google.com/github/thinkthoughts/flat-minima-representation/blob/main/notebooks/29_correlation_vs_causation.ipynb">📓</a>    |
 | 37       | Representation matters   | <a href="https://colab.research.google.com/github/thinkthoughts/flat-minima-representation/blob/main/notebooks/37_representation_matters.ipynb">📓</a>    |
 | 43       | SAM vs Representation   | <a href="https://colab.research.google.com/github/thinkthoughts/flat-minima-representation/blob/main/notebooks/43_sam_vs_representation.ipynb">📓</a>    |
-| 37       | Function space robustness   | <a href="https://colab.research.google.com/github/thinkthoughts/flat-minima-representation/blob/main/notebooks/49_function_space_robustness.ipynb">📓</a>    |
+| 49       | Function space robustness   | <a href="https://colab.research.google.com/github/thinkthoughts/flat-minima-representation/blob/main/notebooks/49_function_space_robustness.ipynb">📓</a>    |
 
 
 ---
