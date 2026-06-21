@@ -1,0 +1,8 @@
+property,level,survives_reparameterization,reason
+Function values,computation,True,Same input-output map
+Predictions,computation,True,Same outputs for same inputs
+Test error,computation / evaluation,True,Predictions are unchanged
+Hessian,representation,False,Curvature is coordinate-dependent
+Sharpness,representation,False,Measured through Hessian geometry
+Parameter values,representation,False,Coordinates change
+Parameter norm,representation,False,Scale changes under reparameterization

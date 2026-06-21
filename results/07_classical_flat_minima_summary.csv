@@ -1,0 +1,6 @@
+concept,interpretation
+Flat minimum,small curvature
+Sharp minimum,large curvature
+Hessian,local curvature measurement
+Classical hypothesis,flat minima generalize better
+Next question,does this measurement survive reparameterization?

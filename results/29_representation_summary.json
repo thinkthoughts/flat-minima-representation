@@ -1,0 +1,8 @@
+{
+  "title": "Representation Matters",
+  "same_computation": true,
+  "geometry_changes": true,
+  "max_sharpness_ratio": 16.0,
+  "min_sharpness_ratio": 0.0625,
+  "engineering_statement": "Some properties belong to the computation. Others belong to the representation. Scientific explanations should distinguish between them."
+}

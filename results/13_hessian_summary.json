@@ -1,0 +1,6 @@
+{
+  "largest_eigenvalue": 20.0,
+  "smallest_eigenvalue": 2.0,
+  "condition_number": 10.0,
+  "engineering_statement": "Hessians measure curvature. Curvature measures geometry. Geometry is not automatically computation."
+}

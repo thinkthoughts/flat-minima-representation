@@ -1,0 +1,6 @@
+{
+  "title": "Conclusions",
+  "core_claim": "Computation survives representation.",
+  "future_question": "Can we build representation-invariant measures of generalization?",
+  "engineering_statement": "Curvature measures geometry. Geometry depends on representation. Computation survives representation. Scientific explanations should identify what survives."
+}

@@ -1,0 +1,22 @@
+[
+  {
+    "concept":"Flat minimum",
+    "interpretation":"small curvature"
+  },
+  {
+    "concept":"Sharp minimum",
+    "interpretation":"large curvature"
+  },
+  {
+    "concept":"Hessian",
+    "interpretation":"local curvature measurement"
+  },
+  {
+    "concept":"Classical hypothesis",
+    "interpretation":"flat minima generalize better"
+  },
+  {
+    "concept":"Next question",
+    "interpretation":"does this measurement survive reparameterization?"
+  }
+]

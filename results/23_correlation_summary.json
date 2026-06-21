@@ -1,0 +1,8 @@
+{
+  "n_models": 80,
+  "original_correlation_sharpness_test_error": 0.933864279710459,
+  "reparameterized_correlation_sharpness_test_error": 0.3120267520440011,
+  "min_sharpness_ratio": 0.07207104122140626,
+  "max_sharpness_ratio": 15.900269579528073,
+  "engineering_statement": "Correlation can survive observation, but causation must survive representation."
+}
