@@ -47,118 +47,89 @@ This repository builds a sequence of toy experiments investigating that question
 
 ## Notebook Sequence
 
-### 00 — Context
+00 — Context
 
-Introduces the paper, flat-minima literature, and the central question:
+Introduces the paper and the central question:
 
-> What properties remain meaningful when representations change?
+Does sharpness explain generalization, or does it depend on representation?
 
----
+07 — Flat vs Sharp
 
-### 07 — Classical Flat-Minima Hypothesis
-
-Builds intuition for flat and sharp minima.
+Builds the classical intuition behind flat minima.
 
 Key ideas:
 
-* Flat minima correspond to smaller curvature.
-* Sharp minima correspond to larger curvature.
-* Hessians measure local curvature.
-* Classical hypothesis:
+Flat minima have smaller curvature.
+Sharp minima have larger curvature.
+Hessians measure local curvature.
 
-  Flat minima → robustness → better generalization.
+Classical hypothesis:
 
----
+Flat minima → robustness → better generalization.
 
-### 13 — Hessian Geometry
+13 — Hessian Geometry
 
-Introduces Hessians as geometric measurements.
+Introduces the geometric language used throughout the paper.
 
 Experiments visualize:
 
-* Curvature families
-* Eigenvalues
-* Eigenvectors
-* Anisotropic versus isotropic bowls
+Curvature families
+Eigenvalues
+Eigenvectors
+Isotropic and anisotropic bowls
 
 Key takeaway:
 
-> Flatness is a geometric property measured through Hessian curvature.
+Sharpness is a geometric measurement derived from Hessian curvature.
 
----
+17 — Reparameterization
 
-### 17 — Reparameterization
-
-Shows that equivalent functions can have very different measured sharpness.
-
-Experiments demonstrate:
-
-* Same input-output behavior
-* Different parameter coordinates
-* Different Hessian values
+Shows that the same computation can appear flat or sharp depending on coordinates.
 
 Key takeaway:
 
-> Measured sharpness depends on representation.
+Measured sharpness depends on parameterization.
 
----
+23 — Same Function, Different Sharpness
 
-### 23 — Correlation versus Causation
-
-Explores relationships between:
-
-* Sharpness
-* Test error
-* Reparameterized coordinates
+Constructs equivalent functions whose predictions remain identical while Hessian measurements change substantially.
 
 Key takeaway:
 
-> Correlations involving sharpness may weaken or disappear after coordinate changes.
+Sharpness can vary even when computation does not.
 
----
+29 — Correlation vs Causation
 
-### 29 — Representation Matters
+Investigates whether observed sharpness-generalization correlations survive representation changes.
 
-Synthesizes previous results.
+Key takeaway:
+
+Correlation alone does not establish sharpness as a causal explanation.
+
+37 — Representation Matters
+
+Synthesizes the repository.
 
 Distinguishes:
 
-**Computation**
+Computation
 
-* Function
-* Predictions
-* Test error
+Function
+Predictions
+Test error
 
 from
 
-**Representation**
+Representation
 
-* Coordinates
-* Parameter norms
-* Hessian sharpness
-* Local curvature
+Coordinates
+Parameter norms
+Hessian sharpness
+Local curvature
 
 Key takeaway:
 
-> Computation survives representation changes. Geometry may not.
-
----
-
-### 37 — Conclusions
-
-Summarizes the repository.
-
-Central result:
-
-> Same computation.
->
-> Different geometry.
-
-Future question:
-
-> Can we build representation-invariant measures of generalization?
-
----
+Computation survives representation changes. Geometry may not.
 
 ## Figures
 
