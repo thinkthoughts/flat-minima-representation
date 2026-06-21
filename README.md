@@ -1,6 +1,6 @@
 # Representation Demystifies Flat Minima
 
-p align="center">
+<p align="center">
   <img src="figures/2605-05209.png" width="900">
 </p>
 
