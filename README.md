@@ -34,13 +34,13 @@ This repository builds a sequence of toy experiments investigating that question
 
 | Notebook | Focus                                | Colab |
 | -------- | ------------------------------------ | ----- |
-| 00       | Context and paper overview           | <a href="https://colab.research.google.com/github/thinkthoughts/representation-demystifies-flat-minima/blob/main/notebooks/00_context.ipynb">📓</a>  |
-| 07       | Classical flat-minima hypothesis     | <a href="https://colab.research.google.com/github/thinkthoughts/representation-demystifies-flat-minima/blob/main/notebooks/07_classical_flat_minima_hypothesis.ipynb">📓</a>    |
-| 13       | Hessian geometry and curvature       | <a href="https://colab.research.google.com/github/thinkthoughts/representation-demystifies-flat-minima/blob/main/notebooks/13_hessian_geometry.ipynb">📓</a>    |
-| 17       | Reparameterization changes sharpness | <a href="https://colab.research.google.com/github/thinkthoughts/representation-demystifies-flat-minima/blob/main/notebooks/17_reparameterization.ipynb">📓</a>    |
-| 23       | Correlation versus causation         | <a href="https://colab.research.google.com/github/thinkthoughts/representation-demystifies-flat-minima/blob/main/notebooks/23_correlation_vs_causation.ipynb">📓</a>    |
-| 29       | Representation matters               | <a href="https://colab.research.google.com/github/thinkthoughts/representation-demystifies-flat-minima/blob/main/notebooks/29_representation_matters.ipynb">📓</a>    |
-| 37       | Conclusions and surviving properties | <a href="https://colab.research.google.com/github/thinkthoughts/representation-demystifies-flat-minima/blob/main/notebooks/37_conclusions.ipynb">📓</a>    |
+| 00       | Context and paper overview           | <a href="https://colab.research.google.com/github/thinkthoughts/flat-minima-representation/blob/main/notebooks/00_context.ipynb">📓</a>  |
+| 07       | Classical flat-minima hypothesis     | <a href="https://colab.research.google.com/github/thinkthoughts/flat-minima-representation/blob/main/notebooks/07_classical_flat_minima_hypothesis.ipynb">📓</a>    |
+| 13       | Hessian geometry and curvature       | <a href="https://colab.research.google.com/github/thinkthoughts/flat-minima-representation/blob/main/notebooks/13_hessian_geometry.ipynb">📓</a>    |
+| 17       | Reparameterization changes sharpness | <a href="https://colab.research.google.com/github/thinkthoughts/flat-minima-representation/blob/main/notebooks/17_reparameterization.ipynb">📓</a>    |
+| 23       | Correlation versus causation         | <a href="https://colab.research.google.com/github/thinkthoughts/flat-minima-representation/blob/main/notebooks/23_correlation_vs_causation.ipynb">📓</a>    |
+| 29       | Representation matters               | <a href="https://colab.research.google.com/github/thinkthoughts/flat-minima-representation/blob/main/notebooks/29_representation_matters.ipynb">📓</a>    |
+| 37       | Conclusions and surviving properties | <a href="https://colab.research.google.com/github/thinkthoughts/flat-minima-representation/blob/main/notebooks/37_conclusions.ipynb">📓</a>    |
 
 ---
 
